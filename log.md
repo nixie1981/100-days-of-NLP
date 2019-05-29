@@ -7,4 +7,4 @@
 
 **Thoughts:** I'm not sure I like this book, it uses too many metaphors and explanations for obvious things and progresses very slowly. Hopefully it will pick up later.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Simple tokenizer and distances](https://github.com/nixie1981/100-days-of-NLP/blob/master/Tokenizer.ipynb)
