@@ -18,3 +18,10 @@
 **Thoughts:** I am starting to like the book, it has quite interesting discussion of possible pipelines/worklows
 
 **Link to work:** [N-Grams, stemmers and lemmatization](https://github.com/nixie1981/100-days-of-NLP/blob/master/Tokenizer.ipynb)
+
+### Day 3: 1 June, 2019
+**Today's Progress**: (Almost) finished Chapter 2 of NLPiA. Spent most of the time trying to install NLPiA package.
+
+**Thoughts:** I still can't use conda etc very well and Windows is very inconvenient for that
+
+**Link to work:** none today
