@@ -20,8 +20,21 @@
 **Link to work:** [N-Grams, stemmers and lemmatization](https://github.com/nixie1981/100-days-of-NLP/blob/master/Tokenizer.ipynb)
 
 ### Day 3: 1 June, 2019
+
+
 **Today's Progress**: (Almost) finished Chapter 2 of NLPiA. Spent most of the time trying to install NLPiA package.
 
 **Thoughts:** I still can't use conda etc very well and Windows is very inconvenient for that
 
 **Link to work:** none today
+
+
+### Day 4: 2 June, 2019
+
+
+**Today's Progress**: Installed Anaconda and NLPia on Ubuntu and set everything up. Finished Chapter 2 (Named Entity Recognition) of BioNLP; halfway through chapter 3.
+
+**Thoughts:** Ubuntu is much less scary than I thought! On the other hand, BioNLP seems to be *extremely* hard.
+
+**Link to work:** none today
+
