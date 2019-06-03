@@ -38,3 +38,14 @@
 
 **Link to work:** none today
 
+
+
+### Day 5: 3 June, 2019
+
+
+**Today's Progress**: Finished chapter 2 on NLPiA, trained and tested a Naive Bayes classifier based on skitlearn.
+
+**Thoughts:** There were many mistakes in the scripts in the book, so the progress was slow, but I am learning a lot when things do not work as expected. Probably I should examine the scripts before trying to run them.
+
+**Link to work:** [NB Classifer] (https://github.com/nixie1981/100-days-of-NLP/blob/master/NB%20sentiment%20classifier.ipynb)
+
