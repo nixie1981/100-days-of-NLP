@@ -56,5 +56,5 @@
 
 **Thoughts:** I think I am starting to get intuition regarding what vectors are.
 
-**Link to work:** [NB Classifer](https://github.com/nixie1981/100-days-of-NLP/blob/master/NB%20sentiment%20classifier.ipynb)
+**Link to work:** [Creating Vectors](https://github.com/nixie1981/100-days-of-NLP/blob/master/Vectors.ipynb)
 
